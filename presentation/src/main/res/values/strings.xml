@@ -1,0 +1,9 @@
+<resources>
+    <string name="title">Tic Tac Toe</string>
+    <string name="human_win_message">You win! :D</string>
+    <string name="computer_win_message">You loose :(</string>
+    <string name="draw_message">Draw :/</string>
+    <string name="computer_playing_message">Computer is playing…</string>
+    <string name="human_playing_message">Your turn!</string>
+    <string name="reset_game_action">Reset</string>
+</resources>
